@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Николай Попков](https://up.htmlacademy.ru/adaptive/12/user/281623).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Хартов].(https://htmlacademy.ru/profile/id59564)
 
 ---
 
